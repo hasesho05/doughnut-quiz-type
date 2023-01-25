@@ -1,0 +1,102 @@
+[
+  {"title":"donate",
+    "options":["寄付する","価値がある","収容する","修理する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"decade",
+    "options":["10年間","詳細","承認","修理"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"temperature",
+    "options":["課程","取替","温度","一時"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"owe",
+    "options":["更新する","保有する","借りている","見直す"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"practical",
+    "options":["実践的な","異なった","同一の","専門的な"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"hurry",
+    "options":["出席する","提案する","急ぐ","再び"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"uniform",
+    "options":["均一の","まばらな","実践的な","唯一の"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"guarantee",
+    "options":["決定する","用意する","提案する","保証する"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"undergo",
+    "options":["経験する","到着する","修理する","設置する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"outstanding",
+    "options":["確かな","必要な","傑出した","無料の"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"apart from",
+    "options":["〜を気にする","〜を行使する","〜を参照する","〜を除いて"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"baggage",
+    "options":["手荷物","能力","産業","専門"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"catering",
+    "options":["財政","謝礼","入門書","仕出し業"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"satisfaction",
+    "options":["消毒","満足","供給","歓迎"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"guess",
+    "options":["尋ねる","不満を言う","推測する","挨拶する"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"unless",
+    "options":["〜の後ろに","〜すれば","〜しない限り","多くの"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"efficiency",
+    "options":["支店","効率","投資","口座"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"due consideration",
+    "options":["投資信託","教育","十分な考慮","浅はかな考え"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"accolade",
+    "options":["知識","称賛","芸術作品","有名な"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"in time for ",
+    "options":["に間に合うように","急いで","危険にさらされて","一時の"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"draw near",
+    "options":["残念に思う","締め切りが近づく","思い描く","行動する"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"a school of",
+    "options":["好意的な","少人数の","〜教育","〜の群れ"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"day in, day out",
+    "options":["夕方","来る日も","定期的に","以前は"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"cordone",
+    "options":["区別する","逮捕する","提案する","遮断する"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"Ever since",
+    "options":["〜からずっと","〜以前は","〜の時","〜の理由で"],
+    "correctOptionIndex":"0"
+  }
+]

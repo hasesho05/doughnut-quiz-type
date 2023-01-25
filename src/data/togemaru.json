@@ -1,0 +1,102 @@
+[
+{"title":"bark up the wrong tree",
+  "options":["大成功する","お門違いなことをする","出世する","道を踏み外す"],
+  "correctOptionIndex":"1"
+},
+{"title":"behind bars",
+  "options":["飲み場の裏側で","目立たないで","獄中で","考え込んだ状態で"],
+  "correctOptionIndex":"2"
+},
+{"title":"silver bullet",
+  "options":["万能な解決策","銀の弾丸","立派な存在","幸せな状態"],
+  "correctOptionIndex":"0"
+},
+{"title":"quandary",
+  "options":["青春の","辺鄙な","苦境に立たされて","傲慢な"],
+  "correctOptionIndex":"2"
+},
+{"title":"eleventh-hour",
+  "options":["11時間","土壇場の","もう少しの","有頂天な"],
+  "correctOptionIndex":"1"
+},
+{"title":"suspend judgement",
+  "options":["前置きを長くする","思考停止する","意見を控える","考え込む"],
+  "correctOptionIndex":"2"
+},
+{"title":"go to hell in handbasket",
+  "options":["突き落とされる","悪化する","どんちゃん騒ぎする","敗北する"],
+  "correctOptionIndex":"1"
+},
+{"title":"swindle",
+  "options":["交渉する","営業する","だまし取る","努力する"],
+  "correctOptionIndex":"2"
+},
+{"title":"old chestnut",
+  "options":["陳腐な決まり文句","老人","あざ笑う","引きこもりになる"],
+  "correctOptionIndex":"0"
+},
+{"title":"show the door",
+  "options":["行き先を教える","役職を辞めるよう命じる","ドアを開ける","エスコートする"],
+  "correctOptionIndex":"1"
+},
+{"title":"collect one's thoughts",
+  "options":["情報収集する","迷走する","気が狂う","気持ちを落ち着かせる"],
+  "correctOptionIndex":"3"
+},
+{"title":"be on the razor's edge",
+  "options":["危険な状況にいる","守備範囲内にいる","安全を確認する","徒歩圏内にいる"],
+  "correctOptionIndex":"0"
+},
+{"title":"garden-variety",
+  "options":["野菜が豊富である","健康な","栄養満点の","ありふれた"],
+  "correctOptionIndex":"3"
+},
+{"title":"fix breakfast",
+  "options":["朝食を作り直す","朝食の材料を買う","朝食を用意する","朝食を平らげる"],
+  "correctOptionIndex":"2"
+},
+{"title":"stymie",
+  "options":["逮捕する","阻止する","促進する","身を守る"],
+  "correctOptionIndex":"1"
+},
+{"title":"beat one's swords into plowshares",
+  "options":["平和な暮らしをおくる","利益を上げる","武器を装備する","おしゃれをする"],
+  "correctOptionIndex":"0"
+},
+{"title":"drop in the bucket",
+  "options":["潤いのある","取るに足らない","大量の","器が小さい"],
+  "correctOptionIndex":"1"
+},
+{"title":"overweening",
+  "options":["過剰な","達成可能な","威張り散らした","謙虚な"],
+  "correctOptionIndex":"2"
+},
+{"title":"diffidence",
+  "options":["自信過剰さ","臆病さ","混乱","観光地"],
+  "correctOptionIndex":"1"
+},
+{"title":"feel one's oats",
+  "options":["規則正しい食事をする","天気が良くなる","元気を取り戻す","元気がなくなる"],
+  "correctOptionIndex":"2"
+},
+{"title":"bite the bullet",
+  "options":["耐え忍ぶ","銃で撃たれる","有頂天になる","危険な行為をする"],
+  "correctOptionIndex":"0"
+},
+{"title":"call a spade a spade",
+  "options":["言い当てる","予測する","ハッキリと言う","無駄なこと"],
+  "correctOptionIndex":"2"
+},
+{"title":"under the gun",
+  "options":["プレッシャーをかけられて","脅されて","身の危険にさらされて","銃を構えて"],
+  "correctOptionIndex":"0"
+},
+{"title":"turn a blind eye",
+  "options":["失明する","見て見ぬふりする","目が不自由になる","かすんで見える"],
+  "correctOptionIndex":"1"
+},
+{"title":"batten down the hatches",
+  "options":["困難に備える","慎重な行動をとる","徹夜する","後回しにする"],
+  "correctOptionIndex":"0"
+}
+]

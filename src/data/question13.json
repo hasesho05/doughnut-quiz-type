@@ -1,0 +1,102 @@
+[
+{"title":"candid",
+  "options":["率直な","追加の","余裕がある","比較的に"],
+  "correctOptionIndex":"0"
+},
+{"title":"anonymous",
+  "options":["同僚","勝者","匿名の","専門的な"],
+  "correctOptionIndex":"2"
+},
+{"title":"assure",
+  "options":["保険","保証する","招待する","取り損なう"],
+  "correctOptionIndex":"1"
+},
+{"title":"thoroughly",
+  "options":["徹底的に","たくさんの","おおよそ","構成している"],
+  "correctOptionIndex":"0"
+},
+{"title":"disrupt",
+  "options":["中断させる","要求する","満了する","正当化する"],
+  "correctOptionIndex":"0"
+},
+{"title":"afterward",
+  "options":["その後で","透明な","満場一致の","熱心な"],
+  "correctOptionIndex":"0"
+},
+{"title":"originate",
+  "options":["抵抗する","押し上げる","油断する","生じる"],
+  "correctOptionIndex":"3"
+},
+{"title":"versatile",
+  "options":["準法的な","矛盾のない","著名な","多才な"],
+  "correctOptionIndex":"3"
+},
+{"title":"bypass",
+  "options":["たくさんの","贅沢な","迂回路","味付けする"],
+  "correctOptionIndex":"2"
+},
+{"title":"awning",
+  "options":["日よけ","借り物の","仲間","姿勢"],
+  "correctOptionIndex":"0"
+},
+{"title":"ample",
+  "options":["歳入","急騰した","十分な","節約した"],
+  "correctOptionIndex":"2"
+},
+{"title":"contrast",
+  "options":["誤植する","探求する","対比する","装う"],
+  "correctOptionIndex":"2"
+},
+{"title":"fragile",
+  "options":["壊れやすい","病的な","風変わりな","穏やかな"],
+  "correctOptionIndex":"0"
+},
+{"title":"promptly",
+  "options":["風刺的な","並外れた","遅延なく","豊富に"],
+  "correctOptionIndex":"2"
+},
+{"title":"unconventional",
+  "options":["実行可能な","ぼろぼろの","無条件の","型にはまらない"],
+  "correctOptionIndex":"3"
+},
+{"title":"conditional",
+  "options":["条件付きの","不適当な","傲慢な","熱中した"],
+  "correctOptionIndex":"0"
+},
+{"title":"accountable",
+  "options":["会計上の","紹介の","責任がある","興奮した"],
+  "correctOptionIndex":"2"
+},
+{"title":"landmark",
+  "options":["歴史的な建物","しるし","商業","循環"],
+  "correctOptionIndex":"0"
+},
+{"title":"steep",
+  "options":["既存の","急な","貪欲な","親切な"],
+  "correctOptionIndex":"1"
+},
+{"title":"await",
+  "options":["待つ","移す","荒れ狂う","追う"],
+  "correctOptionIndex":"0"
+},
+{"title":"intermittent",
+  "options":["駆け出しの","容易な","排他的な","断続的な"],
+  "correctOptionIndex":"3"
+},
+{"title":"pursue",
+  "options":["要求する","推薦する","追求する","付加する"],
+  "correctOptionIndex":"2"
+},
+{"title":"cozy",
+  "options":["代表する","提供する","以前の","居心地の良い"],
+  "correctOptionIndex":"3"
+},
+{"title":"rundown",
+  "options":["手短な報告","保険業","専門技術","収益"],
+  "correctOptionIndex":"0"
+},
+{"title":"roundup",
+  "options":["売り場","総括","契約","予算"],
+  "correctOptionIndex":"1"
+}
+]

@@ -1,0 +1,102 @@
+[
+  {"title":"workplace",
+    "options":["状態","距離","仕事場","人員"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"durable",
+    "options":["耐久性のある","とても","注意力のある","具体的な"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"merger",
+    "options":["買収","大会","合併","仕事"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"priority",
+    "options":["優先事項","名簿","署名","公式"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"stigma",
+    "options":["くじ引き","運","欠陥","社会的な不名誉"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"outcome",
+    "options":["契約","結果","財産","研究"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"enterprise",
+    "options":["経営幹部","専門技術","保険業","企業"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"prevent from",
+    "options":["投資する","妨げる","提案する","巻き込む"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"scholarship",
+    "options":["奨学金","運賃","繁栄","罰金"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"import",
+    "options":["返金する","提案する","輸入する","代表する"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"prior to",
+    "options":["~より前に","~より後に","~を参照する","〜を紹介する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"significant",
+    "options":["指標になる","適任の","重要な","曖昧な"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"prescription",
+    "options":["番組","処方箋","受付係","清掃員"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"eatery",
+    "options":["食堂","テラス","仕事場","郵便局員"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"be supposed to",
+    "options":["〜に責任がある","〜することになっている","〜を支援する","〜を参照する"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"eligible",
+    "options":["年に一回の","問題のある","切れ味のある","適任の"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"broadcast",
+    "options":["放送する","よく考える","宣伝する","配達する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"genre",
+    "options":["クーポン","ジャンル","参加者","提案"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"thus",
+    "options":["方法","意見","したがって","しかしながら"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"tend to do",
+    "options":["している時に","する傾向がある","を用意する","を承認する"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"overflow",
+    "options":["改良する","点検する","保有する","いっぱいになる"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"encrypt",
+    "options":["点検する","暗号化する","参加する","提案する"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"out of the blue",
+    "options":["方法","真っ青","いきなり","しかしながら"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"be indicative of",
+    "options":["〜している時に","〜を暗示して","〜を用意して","〜を承認して"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"ask for one's check",
+    "options":["改良する","点検する","保有する","お会計する"],
+    "correctOptionIndex":"3"
+  }
+]

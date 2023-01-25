@@ -1,0 +1,102 @@
+[
+  {"title":"stack",
+    "options":["積み重ねる","登録する","失敗する","超える"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"qualify",
+    "options":["努力する","提案する","資格を与える","予期する"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"regulation",
+    "options":["手数料","規則","設備","才能"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"summary",
+    "options":["告知","保険","図形","要約"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"compact",
+    "options":["以前の","小型の","好都合の","責任がある"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"constant",
+    "options":["絶え間なく続く","適切な","排他的な","旧式の"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"gather",
+    "options":["禁止する","集める","追う","思索する"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"in short",
+    "options":["厳しく","熱心に","空っぽの","要するに"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"incorporate",
+    "options":["組み入れる","破裂する","保証する","引用する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"redeem",
+    "options":["弁済する","知る","再考する","避ける"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"panel",
+    "options":["魚類","パネル","はしご","処方箋"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"layout",
+    "options":["管理","関税","レイアウト","しるし"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"fare",
+    "options":["入場料","用具","出席者","運賃"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"determine",
+    "options":["発掘する","決定する","大目に見る","蒸発させる"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"accomplishment",
+    "options":["達成","調査","投資","回避"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"simple",
+    "options":["共感","単純な","用具","複雑な"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"aware of",
+    "options":["気づいている","達成する","提案する","調査する"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"advantage",
+    "options":["在庫","不利な点","有利な点","広告"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"in hopes of",
+    "options":["優勢の","〜に気づいて","地下で","〜を狙って"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"impermeability",
+    "options":["可能性","優位性","頭上の","不浸透性"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"waterproof",
+    "options":["壊れやすい","丈夫な","防水性の","耐熱性の"],
+    "correctOptionIndex":"2"
+  },
+  {"title":"have a peek",
+    "options":["機嫌が良い","ミスをする","感づく","ちらっと見る"],
+    "correctOptionIndex":"3"
+  },
+  {"title":"grave mistake",
+    "options":["重大な過ち","軽度な過ち","地盤沈下","うっかりと"],
+    "correctOptionIndex":"0"
+  },
+  {"title":"go to pains to",
+    "options":["幸運にも","〜に精を出す","悪事を働く","移転させる"],
+    "correctOptionIndex":"1"
+  },
+  {"title":"get hold of",
+    "options":["そのとおりにする","連絡を取る","ちらっと見る","訪れる"],
+    "correctOptionIndex":"1"
+  }
+]

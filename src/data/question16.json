@@ -1,0 +1,102 @@
+[
+  {"title":"average",
+    "options":["財政上の","無料の","平均の","自由な"],
+    "correctOptionIndex":"2"
+  },
+{"title":"utilize",
+  "options":["購入する","利用する","提供する","賛成する"],
+  "correctOptionIndex":"1"
+},
+{"title":"intensive",
+  "options":["無料の","支払期限のきた","財政上の","短期集中的な"],
+  "correctOptionIndex":"3"
+},
+{"title":"insight",
+  "options":["見識","整備","説明","主張"],
+  "correctOptionIndex":"0"
+},
+{"title":"explanation",
+  "options":["供給","説明","歓迎","在庫"],
+  "correctOptionIndex":"1"
+},
+{"title":"devote",
+  "options":["成功する","定義する","ささげる","修理する"],
+  "correctOptionIndex":"2"
+},
+{"title":"discontinue",
+  "options":["公演する","配る","行く","中止する"],
+  "correctOptionIndex":"3"
+},
+{"title":"truly",
+  "options":["本当に","残念ながら","まもなく","いずれにせよ"],
+  "correctOptionIndex":"0"
+},
+{"title":"kickoff",
+  "options":["建築家","開始","投票","地位"],
+  "correctOptionIndex":"1"
+},
+{"title":"entertainment",
+  "options":["努力","数量","娯楽","人事部"],
+  "correctOptionIndex":"2"
+},
+{"title":"neutral",
+  "options":["中立の","状態の良い","距離がある","お気に入りの"],
+  "correctOptionIndex":"0"
+},
+{"title":"biography",
+  "options":["手荷物","伝記","延期","テクニック"],
+  "correctOptionIndex":"1"
+},
+{"title":"precise",
+  "options":["正確な","具体的な","準備のできた","いくぶん"],
+  "correctOptionIndex":"0"
+},
+{"title":"factor",
+  "options":["方法","要因","仕事","地域"],
+  "correctOptionIndex":"1"
+},
+{"title":"conform",
+  "options":["従う","認識する","安定する","再開する"],
+  "correctOptionIndex":"0"
+},
+{"title":"eventually",
+  "options":["理想的な","伝統的な","専門的な","結局のところ"],
+  "correctOptionIndex":"3"
+},
+{"title":"reputation",
+  "options":["評判","解決策","基準","祝いの言葉"],
+  "correctOptionIndex":"0"
+},
+{"title":"curb",
+  "options":["海岸","縁石","桟橋","流木"],
+  "correctOptionIndex":"1"
+},
+{"title":"innovative",
+  "options":["責任の負うべき","刷新的な","効果的な","目立つ"],
+  "correctOptionIndex":"1"
+},
+{"title":"malfunction",
+  "options":["発着ロビー","不調","名簿","機能"],
+  "correctOptionIndex":"1"
+},
+{"title":"vehicular",
+  "options":["正式の","特定の","重大な","車両の"],
+  "correctOptionIndex":"3"
+},
+{"title":"prerequisite",
+  "options":["必須条件","手荷物","歩行者","プロフィール"],
+  "correctOptionIndex":"0"
+},
+{"title":"reluctant",
+  "options":["いやに思う","進んでする","推測する","完結させる"],
+  "correctOptionIndex":"0"
+},
+{"title":"top-notch",
+  "options":["あまり良くない","一流の","絶え間なく続く","気づいている"],
+  "correctOptionIndex":"1"
+},
+{"title":"without reservation",
+  "options":["無条件で","予約なしに","思いつきで","例外なく"],
+  "correctOptionIndex":"0"
+}
+]

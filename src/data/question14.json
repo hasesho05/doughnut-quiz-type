@@ -1,0 +1,102 @@
+[
+{"title":"token",
+  "options":["実際","計算","しるし","利益"],
+  "correctOptionIndex":"2"
+},
+{"title":"overcome",
+  "options":["克服する","改良する","巻き込む","進む"],
+  "correctOptionIndex":"0"
+},
+{"title":"anymore",
+  "options":["結果的に","もはや","おおよそ","ふさわしく"],
+  "correctOptionIndex":"1"
+},
+{"title":"utility",
+  "options":["電気製品","顔つき","予定表","公共設備"],
+  "correctOptionIndex":"3"
+},
+{"title":"allocate",
+  "options":["失敗する","説明する","割り当てる","調べる"],
+  "correctOptionIndex":"2"
+},
+{"title":"whereas",
+  "options":["したがって","だが一方","同時に","それでも"],
+  "correctOptionIndex":"1"
+},
+{"title":"accustom",
+  "options":["余裕がある","慣れさせる","前進する","管理する"],
+  "correctOptionIndex":"1"
+},
+{"title":"forecast",
+  "options":["同僚","契約","予報","売り場"],
+  "correctOptionIndex":"2"
+},
+{"title":"resign",
+  "options":["超過する","辞職する","展示する","予期する"],
+  "correctOptionIndex":"1"
+},
+{"title":"reasonable",
+  "options":["訳あって","責任がある","構成している","手頃な"],
+  "correctOptionIndex":"3"
+},
+{"title":"apart from",
+  "options":["〜を気にする","〜を行使する","〜を参照する","〜を除いて"],
+  "correctOptionIndex":"3"
+},
+{"title":"incline",
+  "options":["長持ちする","に気が向く","的確で","容易にする"],
+  "correctOptionIndex":"1"
+},
+{"title":"spokesperson",
+  "options":["代弁者","歩行者","家主","経営者"],
+  "correctOptionIndex":"0"
+},
+{"title":"utensil",
+  "options":["補足","料金表","授業料","台所用具"],
+  "correctOptionIndex":"3"
+},
+{"title":"accurate",
+  "options":["要約された","完成した","正確な","貪欲な"],
+  "correctOptionIndex":"2"
+},
+{"title":"detour",
+  "options":["迂回路","食欲","禁止","循環"],
+  "correctOptionIndex":"0"
+},
+{"title":"prototype",
+  "options":["特派員","試作品","眠気","起業家"],
+  "correctOptionIndex":"1"
+},
+{"title":"fiscal",
+  "options":["能力のある","壊れやすい","会計の","不良な"],
+  "correctOptionIndex":"2"
+},
+{"title":"spectator",
+  "options":["観客","同僚","質問者","内科"],
+  "correctOptionIndex":"0"
+},
+{"title":"inconvenience",
+  "options":["確認","不自由","野生動物","はり治療"],
+  "correctOptionIndex":"1"
+},
+{"title":"turn out for",
+  "options":["収入がある","だと判明する","回転させる","問い合わせる"],
+  "correctOptionIndex":"1"
+},
+{"title":"be held in reserve",
+  "options":["予期する","そのままにしておく","人目を引く","改良する"],
+  "correctOptionIndex":"1"
+},
+{"title":"captivate",
+  "options":["排除する","遅らせる","流通する","魅了する"],
+  "correctOptionIndex":"3"
+},
+{"title":"in dire need of",
+  "options":["付加して","評価して","少し望んで","渇望して"],
+  "correctOptionIndex":"3"
+},
+{"title":"daffodils",
+  "options":["ラッパスイセン","分析家","応募者","予算案"],
+  "correctOptionIndex":"0"
+}
+]
