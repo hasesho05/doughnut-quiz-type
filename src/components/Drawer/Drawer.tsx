@@ -43,10 +43,10 @@ function DrawerSettings() {
       setOpen(false)
     }
     
-    const handleChange = (e) => {
+    const handleChange = (e:any) => {
       setText(() => e.target.value)
     }
-    const handleNameChange = (e) => {
+    const handleNameChange = (e:any) => {
       setName(() => e.target.value)
     }
 
