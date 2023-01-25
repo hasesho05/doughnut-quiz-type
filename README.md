@@ -1,7 +1,11 @@
 <h1>概要</h1>
 
-タイトル：Doughnut  
+タイトル：Doughnutquiz
 URL：https://www.doughnut-quiz.com/  
+
+<h1>技術</h1>
+<img width="849" alt="スクリーンショット 2023-01-25 17 13 46" src="https://user-images.githubusercontent.com/100462205/214512041-b9a5513b-077b-4af9-a0d8-4e9c47c41859.png">
+
 
 <br>
 英単語のクイズアプリです。<br>
